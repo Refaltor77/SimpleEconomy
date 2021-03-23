@@ -1,0 +1,5 @@
+name: SimpleEconomy
+version: 1.0.0-beta
+api: 3.0.0
+main: SimpleEconomy\refaltor\Register
+author: refaltor
